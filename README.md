@@ -8,7 +8,7 @@ Home page -> Profile page -> Delete page -> add or updage
 
 <img src="/images/home.png" height="500"> <img src="/images/profile.png" height="500">
 
-<img src="/images/delete.png" height="500"> <img src="/images/add_update.png" height="500">
+<img src="/images/delete.png" height="500"> <img src="/images/app_update.png" height="500">
 
 # Download the app
 
