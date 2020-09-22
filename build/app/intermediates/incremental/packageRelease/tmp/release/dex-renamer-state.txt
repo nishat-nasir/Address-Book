@@ -1,0 +1,4 @@
+#Tue Sep 22 15:50:53 KST 2020
+base.0=/Users/mac/Desktop/PassBy Address_Book/address_book/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
